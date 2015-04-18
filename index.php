@@ -11,6 +11,8 @@
 <title>Spencer Painting - (319) 472-4569</title>
 <meta name="theme-color" content="#cc0000">
 <link rel="icon" sizes="192x192" href="favicons_192.jpg">
+<link rel="manifest" href="manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="description" content="Spencer Painting offers a wide range of painting services in the Cedar Rapids and surrounding areas. Call us Today at (319) 472-4569">
 <meta name="keywords" content="painting contractors, paint contractors, painter in cedar rapids, painter in cedar rapids ia, painter in vinton, 
 interior painter in cedar rapids
