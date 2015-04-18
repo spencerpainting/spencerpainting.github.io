@@ -126,7 +126,7 @@ A{text-decoration:none}
 
 						<h1 id="logo"><img src="images/logo.jpg" alt="Spencer Painting Logo" width="60%"></h1><br><br>
 
-						<p>Spencer Painting specializes in interior and exterior painting, as well as pressure washing, staining and
+						<p style="text-align: justify">Spencer Painting specializes in interior and exterior painting, as well as pressure washing, staining and
 						finishing, and drywall repair. We are fully insured with Liability and Workers' Compensation Insurance and are ready to
 						handle your painting project. Spencer Painting has been serving the area for over 30 years. Let us put our experience 
 						to work for you. Scroll down for more information about our services.</p>
@@ -151,12 +151,12 @@ A{text-decoration:none}
 <nav id="nav2">
 <h2>
 <div id="textbox">
-  <p class="alignleft"><a class="icon fa-paint-brush" data-scroll href="#Services" class="button scrolly" style="text-align:right;margin-left:45px"><span>&nbsp;&nbsp;&nbsp;Our Services</span></a>
+  <p class="alignleft"><a class="icon fa-paint-brush" data-scroll href="#Services" class="button scrolly" style="text-align:right;margin-left:65px"><span>&nbsp;&nbsp;&nbsp;Our Services</span></a>
 </p>
-  <p class="alignright"><a class="icon fa-phone" data-scroll href="#Contact" class="button scrolly" style="text-align:right;margin-right:45px"><span>&nbsp;&nbsp;&nbsp;Contact Us</span></a>
-</p>
+  <p class="alignright"><a class="icon fa-phone" data-scroll href="#Contact" class="button scrolly" style="text-align:right;margin-right:95px"><span>&nbsp;&nbsp;&nbsp;Contact Us</span></a>
+</p><!--
   <p class="aligncenter"><a class="icon fa-comment" data-scroll href="#Reviews" class="button scrolly"><span>&nbsp;&nbsp;&nbsp;Reviews</span></a>
-</p>
+</p>-->
 </div>
 </li>
 </h2>
