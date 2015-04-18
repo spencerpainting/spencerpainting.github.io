@@ -128,7 +128,7 @@ A{text-decoration:none}
 
 						<h1 id="logo"><img src="images/logo.jpg" alt="Spencer Painting Logo" width="60%"></h1><br><br>
 
-						<p style="text-align: justify">Spencer Painting specializes in interior and exterior painting, as well as pressure washing, staining and
+						<p>Spencer Painting specializes in interior and exterior painting, as well as pressure washing, staining and
 						finishing, and drywall repair. We are fully insured with Liability and Workers' Compensation Insurance and are ready to
 						handle your painting project. Spencer Painting has been serving the area for over 30 years. Let us put our experience 
 						to work for you. Scroll down for more information about our services.</p>
