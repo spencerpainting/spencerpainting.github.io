@@ -83,14 +83,14 @@ a {
 	
 		a:hover
 		{
-			color: #ed786a;
+			color: #cc0000;
 			border-bottom-color: rgba(255,255,255,0);
 						text-decoration: none;
 		}
 		
 		a:hover strong
 		{
-			color: #ed786a;
+			color: #cc0000;
 			text-decoration: none;
 		}
 
@@ -495,7 +495,7 @@ a {
 			-webkit-appearance: none;
 			position: relative;
 			display: inline-block;
-			background: #ed786a;
+			background: #cc0000;
 			color: #fff !important;
 			text-transform: uppercase;
 			border-radius: 4px;
