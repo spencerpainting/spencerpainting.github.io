@@ -6,98 +6,50 @@
 -->
 <html>
 	<head>
-
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>Spencer Painting - (319) 472-4569</title>
-<meta name="theme-color" content="#cc0000">
-<link rel="icon" sizes="192x192" href="favicons_192.jpg">
-<link rel="manifest" href="manifest.json">
-<meta name="mobile-web-app-capable" content="yes">
-<meta name="description" content="Spencer Painting offers a wide range of painting services in the Cedar Rapids and surrounding areas. Call us Today at (319) 472-4569">
-<meta name="keywords" content="painting contractors, paint contractors, painter in cedar rapids, painter in cedar rapids ia, painter in vinton, 
-interior painter in cedar rapids
-interior painter in cedar rapids
-exterior painter in cedar rapids
-exterior painter in cedar rapids, ia
-painting contractor in cedar rapids
-painting contractor in cedar rapids, ia
-paint contractor in cedar rapids
-paint contractor in cedar rapids, ia
-paint contractor
-commercial painting contractors
-house painting contractor
-residential painting contractors
-painting contractors websites
-house painting contractors
-exterior painting contractors
-commercial painting contractor
-interior painting contractors
-painting contractor forms
-exterior painting contractor
-painting contractor license
-interior painting contractor
-local painting contractors
-painting contractors license
-residential painting contractor
-professional painting contractor
-house painting
-house painters
-interior painting
-exterior painting
-house painter
-house painting cost
-painting ideas
-home painting contractor
-commercial painting
-painting tips
-house paint
-faux painting
-interior paint
-exterior house painting
-house paint colors
-painting walls
-home painting ideas
-painting contractor websites
-wall paint
-residential painting
-decorative painting
-interior house painting
-wall painting
-home painting contractors
-house painting ideas
-interior painting ideas
-painting a house
-painting house
-interior painters
-painting techniques
-painting estimates
-painting contractor
-commercial paint contractors
-painting and decorating contractors of america
-how to paint a room
-">
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.dropotron.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
-		<script src="js/smooth-scroll.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-desktop.css" />
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-
-
-<STYLE>
-<!--
-A{text-decoration:none}
--->
-</STYLE>
-		<style>
-				.back-to-top {
+	<meta charset="utf-8">
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+	<meta content="initial-scale=1.0, width=device-width" name="viewport">
+	<meta name="google-site-verification" content="Gfz2C4JCZgohy7Gm7NT7hiRxI3sM7C5UWMW6YD3cVsI" />	
+	<meta name="theme-color" content="#cc0000">
+	<meta name="mobile-web-app-capable" content="yes">
+	<link rel="icon" sizes="192x192" href="favicons_192.jpg">
+	<link rel="manifest" href="manifest.json">
+	<link rel="stylesheet" type="text/css" href="/ath/style/addtohomescreen.css">
+	<title>Spencer Painting - (319) 472-4569</title>
+	<meta name="description" content="Spencer Painting offers a wide range of painting services in the Cedar Rapids and surrounding areas. 
+									  Call us Today at (319) 472-4569">
+	<meta name="keywords" content="painting contractors, paint contractors, painter in cedar rapids, painter in vinton, interior painter in cedar rapids,
+								   exterior painter in cedar rapids, painting contractor in cedar rapids, commercial painting contractors, 
+								   house painting contractor, residential painting contractors, painting contractors websites, house painting contractors, 
+								   exterior painting contractors, commercial painting contractor, interior painting contractors, painting contractor forms, 
+								   exterior painting contractor, painting contractor license, interior painting contractor, local painting contractors, 
+								   painting contractors license, residential painting contractor, professional painting contractor, house painting, 
+								   house painters, interior painting, exterior painting, house painter">
+	<!-- Add to Home -->
+	<script src="/ath/src/addtohomescreen.js"></script>
+	<script>
+		addToHomescreen({
+		skipFirstVisit: true,
+		maxDisplayCount: 1
+	});
+	</script>
+	<!-- End Add to Home -->
+	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery.dropotron.min.js"></script>
+	<script src="js/skel.min.js"></script>
+	<script src="js/skel-layers.min.js"></script>
+	<script src="js/init.js"></script>
+	<script src="js/smooth-scroll.js"></script>
+	<noscript>
+		<link rel="stylesheet" href="css/skel.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/style-desktop.css" />
+	</noscript>
+	<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	<!-- Back to Top Floating Button -->
+	<style>
+		.back-to-top {
 			position: fixed;
 			bottom: 2em;
 			right: 0px;
@@ -113,76 +65,49 @@ A{text-decoration:none}
 			background-color: rgba(135, 135, 135, 0.50);
 		}	
 	</style>
-
+	<!-- End Back to Top Floating Button -->
 	</head>
-	
 	<body class="homepage">
-
 		<!-- Header -->
 			<div id="header-wrapper">
 				<div id="header" class="container">
-					
-
 					<!-- Logo -->
-
-
 						<h1 id="logo"><img src="images/logo.jpg" alt="Spencer Painting Logo" width="60%"></h1><br><br>
-
 						<p>Spencer Painting specializes in interior and exterior painting, as well as pressure washing, staining and
 						finishing, and drywall repair. We are fully insured with Liability and Workers' Compensation Insurance and are ready to
 						handle your painting project. Spencer Painting has been serving the area for over 30 years. Let us put our experience 
-						to work for you. Scroll down for more information about our services.</p>
-					
-					<!-- Nav -->
-						<nav id="nav">
-
-
-							<ul>
-
-
-
-								<li><a data-scroll href="#"><span>Back To Top</span></a></li>
-								<li><a data-scroll href="#Services"><span>Services</span></a></li>
-					<!--			<li><a data-scroll href="#Reviews"><span>Reviews</span></a></li>
--->
-								<li><a data-scroll href="#Contact"><span>Contact</span></a></li>
-							</ul>
-						</nav>
-<!-- Contact Button -->
-</div></div>
-<nav id="nav2">
-<h2>
-<div id="textbox">
-  <p class="alignleft"><a class="icon fa-paint-brush" data-scroll href="#Services" class="button scrolly" style="text-align:right;margin-left:65px"><span>&nbsp;&nbsp;&nbsp;Our Services</span></a>
-</p>
-  <p class="alignright"><a class="icon fa-phone" data-scroll href="#Contact" class="button scrolly" style="text-align:right;margin-right:95px"><span>&nbsp;&nbsp;&nbsp;Contact Us</span></a>
-</p><!--
-  <p class="aligncenter"><a class="icon fa-comment" data-scroll href="#Reviews" class="button scrolly"><span>&nbsp;&nbsp;&nbsp;Reviews</span></a>
-</p>-->
-</div>
-</li>
-</h2>
-</div>
-</div>
-</ul>
-</h2>
-</nav>
-
+						to work for you. Scroll down for more information about our services.</p><br><br>		
 				</div>
 			</div>
-			
+		<!-- Mobile Nav -->
+			<nav id="nav">
+				<ul>
+					<li><a data-scroll href="#"><span>Back To Top</span></a></li>
+					<li><a data-scroll href="#Services"><span>Services</span></a></li>
+				<!--<li><a data-scroll href="#Reviews"><span>Reviews</span></a></li>-->
+					<li><a data-scroll href="#Contact"><span>Contact</span></a></li>
+				</ul>
+			</nav>
+		<!-- End Mobile Nav -->
+		<!-- Desktop Nav -->
+			<nav id="nav2">
+				<div id="textbox">
+					<h2 class="alignleft"><a class="icon fa-paint-brush" data-scroll href="#Services" class="button scrolly" 
+						style="text-align:right;margin-left:65px"><span>Our Services</span></a></h2>
+					<h2 class="alignright"><a class="icon fa-phone" data-scroll href="#Contact" class="button scrolly" 
+						style="text-align:right;margin-right:95px"><span>Contact Us</span></a></h2>
+<!--				<h2 class="aligncenter"><a class="icon fa-comment" data-scroll href="#Reviews" class="button scrolly"><span>Reviews</span></a></h2>-->
+				</div>
+			</nav>
 		<!-- Services -->
-
 			<div id="features-wrapper">
-			<section id="Services">
-				<section id="features" class="container">
+				<section id="Services" class="container">
 					<header>
 						<br><h2><strong>Our Services</h2><br>
 					</header>
 					<div class="row">
+			<!-- Interior Painting -->
 						<div class="6u">
-
-							<!-- Feature1 -->
 								<section>
 									<a class="image featured"><img src="images/pic01.jpg" alt="Interior Painting" /></a>
 									<header>
@@ -192,11 +117,9 @@ A{text-decoration:none}
 									interior painting services including ceilings, walls, trim, floors, wallpaper removal and more. Fast, clean 
 									workmanship, professional results.</p>
 								</section>
-
 						</div>
+			<!-- Exterior Painting -->
 						<div class="6u">
-
-							<!-- Feature2 -->
 								<section>
 									<a class="image featured"><img src="images/pic02.jpg" alt="Exterior Painting" /></a>
 									<header>
@@ -207,9 +130,8 @@ A{text-decoration:none}
 								</section>
 								
 						</div><br>
+			<!-- Staining and Finishing -->
 						<div class="4u">
-
-							<!-- Feature3 -->
 								<section>
 									<a class="image featured"><img src="images/pic03.jpg" alt="Staining" /></a>
 									<header>
@@ -218,10 +140,9 @@ A{text-decoration:none}
 									<p>We stain and finish doors, windows and trim. We use high quality stains and clear coats for professional 
 									results. Spencer Painting also stains and waterproofs decks.</p>
 								</section>
-
 						</div>
+			<!-- Pressure Washing -->
 						<div class="4u" >
-							<!-- Feature4 -->
 								<section>
 									<a class="image featured"><img src="images/pic04.jpg" alt="Pressure washing" /></a>
 									<header>
@@ -229,12 +150,10 @@ A{text-decoration:none}
 									</header>
 									<p>Just need it cleaned up? No problem, we can clean siding, decks, gutters, sidewalks or just about anything 
 									else with our pressure washer.</p>
-								</section>
-								
+								</section>		
 						</div>
+			<!-- Drywall and Plaster Repair -->
 							<div class="4u">
-
-							<!-- Feature5 -->
 								<section>
 									<a class="image featured"><img src="images/pic05.jpg" alt="Drywall Repair" /></a>
 									<header>
@@ -242,59 +161,71 @@ A{text-decoration:none}
 									</header>
 									<p>Have cracks or water damaged drywall or plaster? We can repair and texture small drywall jobs.</p>
 								</section>
-								</center>
-						</div>
-						<div class="4u">
-
-
-
-
-
-				
-
+							</div>
+					</div>
 			</div>
-
 
 	
 		<!-- Reviews -->
 <!--
-
 			<div id="features-wrapper">
-			<section id="Reviews">
-				<section id="features" class="container">
+				<section id="Reviews" class="container">
 					<header>
-					<hr width="99%">
-					<hr width="99%"><p></p><p></p>
+						<hr width="99%">
+						<hr width="99%"><p></p><p></p>
 						<br><h2><strong>Reviews</h2><br><p></p>
 					</header>
 					<div class="row">
 						<center>
-</div>
+					</div>
+					<section>
+						<center>
+							<div id="fb-root"></div>
+							<script>
+								(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  
+								if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  
+								js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}
+								(document, 'script', 'facebook-jssdk'));
+							</script>
+							<div class="fb-post" data-href="https://www.facebook.com/boeckmann/posts/10155171290425548:0" data-width="466">
+								<div class="fb-xfbml-parse-ignore">
+									<a href="https://www.facebook.com/boeckmann/posts/10155171290425548:0">Post</a> by 
+									<a href="https://www.facebook.com/boeckmann">Tom Boeckmann</a>.
+								</div>
+							</div>
+							<p></p>
+							<div id="fb-root"></div>
+							<script>
+								(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];
+								if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  
+								js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}
+								(document, 'script', 'facebook-jssdk'));
+							</script>
+							<div class="fb-post" data-href="https://www.facebook.com/JANICE.THOMPSON.BABOR/posts/10203717239232853:0" data-width="466">
+								<div class="fb-xfbml-parse-ignore">
+									<a href="https://www.facebook.com/JANICE.THOMPSON.BABOR/posts/10203717239232853:0">Post</a> by 
+									<a href="https://www.facebook.com/JANICE.THOMPSON.BABOR">Janice Thompson-Babor</a>.
+								</div>
+							</div>
+					</section>
 -->
-							<!-- Feature1 -->
+		<!-- Review Button -->
 <!--
-								<section>
-								<center>
-									<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/boeckmann/posts/10155171290425548:0" data-width="550"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/boeckmann/posts/10155171290425548:0">Post</a> by <a href="https://www.facebook.com/boeckmann">Tom Boeckmann</a>.</div></div>
-									<p></p>
-									<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/JANICE.THOMPSON.BABOR/posts/10203717239232853:0" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/JANICE.THOMPSON.BABOR/posts/10203717239232853:0">Post</a> by <a href="https://www.facebook.com/JANICE.THOMPSON.BABOR">Janice Thompson-Babor</a>.</div></div>
-								</section>
+			<h6><a href="https://m.facebook.com/spencerptg/reviews" target="_blank">
+			<img src="images/facebookreview.jpg" style="text-decoration: none" width="150" height="70"></a></h6>
+-->		
 
-									<h6><a href="https://m.facebook.com/spencerptg/reviews" target="_blank"><img src="images/facebookreview.jpg" style="text-decoration: none" width="150" height="70"></a></h6>
-		
--->
 
-			</div></div></div></div>
+
 
 
 		<!-- Contact -->
-					<section id="Contact">
-			<div id="footer-wrapper">
-
-				<div id="footer" class="container">
-					<header>
-						<h2><strong>Contact us today!</strong></h2>
-					</header>
+			<section id="Contact">
+				<div id="footer-wrapper">
+					<div id="footer" class="container">
+						<header>
+							<h2><strong>Contact us today!</strong></h2>
+						</header>
 					<div class="row">
 						<div class="6u">
 							<section>							        
@@ -347,7 +278,8 @@ A{text-decoration:none}
           $number_1 = rand(1, 9);
           $number_2 = rand(1, 9);
           $answer = substr(md5($number_1+$number_2),5,10);
-        ?>
+?>
+	<!-- Contact Form -->
         <form id="contact" action="#Contact" method="post">
           <div class="form_settings">
             <p><span>Name</span><input class="contact" type="text" name="your_name" value="<?php echo $yourname; ?>" /></p>
@@ -385,8 +317,12 @@ A{text-decoration:none}
 											<li class="icon fa-facebook">
 												<a href="http://www.facebook.com/spencerptg" target="_blank">facebook.com/spencerptg</a><br>
 											</li>
-										<center>	<p><div id="fb1" class="fb-like" data-href="http://www.spencerpainting.net" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
-										</center></ul>
+										<center>
+											<p>
+											<div id="fb1" class="fb-like" data-href="http://www.spencerpainting.net" data-layout="button" 
+											data-action="like" data-show-faces="true" data-share="true"></div>
+										</center>
+										</ul>
 									</div>
 								</div>
 							</section>
@@ -396,10 +332,19 @@ A{text-decoration:none}
 				<div id="copyright" class="container">
 					<ul class="links">
 						<li>&copy; 2015 Spencer Painting<br> All rights reserved.</li>
-					</ul><nav id="nav2">
-					<a href="#" class="back-to-top">Back to Top</a></div>
-					<center>	<p><div id="fb2" class="fb-like" data-href="http://www.spencerpainting.net" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
-
+					</ul>
+					<center>
+						<p>
+						<div id="fb2" class="fb-like" data-href="http://www.spencerpainting.net" data-layout="button" 
+						data-action="like" data-show-faces="true" data-share="true"></div>
+					</center>
+				</div>
+			<!-- Back to Top Link -->
+				<nav id="nav2"><!-- to hide from mobile -->
+					<a href="#" class="back-to-top">Back to Top</a>
+				</nav>
+	<!-- JavaScript -->
+		<!-- Back to Top -->
         <script>            
 			jQuery(document).ready(function() {
 				var offset = 220;
@@ -419,33 +364,28 @@ A{text-decoration:none}
 				})
 			});
 		</script>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-
-
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-					<script>
-    smoothScroll.init();
-</script>
-			
-<script>
-    smoothScroll.init();
-</script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-31067919-4', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
+	<!-- Facebook -->
+		<script>
+			(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+			fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<!-- smoothScroll -->
+		<script>
+			smoothScroll.init();
+		</script>	
+		<!-- Google Analytics -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-31067919-4', 'auto');
+			ga('send', 'pageview');
+		</script>
 	</body>
 </html>
